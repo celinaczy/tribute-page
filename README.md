@@ -1,4 +1,7 @@
-Responsive Web Design Project for FreeCodeCamp - a Tribute Page 
+Responsive Web Design Project for FreeCodeCamp - a Tribute Page
+(https://celinaczy.github.io/tribute-page/)
+
+Page created to fulfill user stories below: 
 
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
