@@ -1,0 +1,64 @@
+    body{
+        background-color: whitesmoke;
+        justify-content: center;
+        align-content: center;
+        display: flex;
+    }
+    #main{
+        width: 95vw;
+        background-color: bisque;
+        display: grid;
+    }
+    #title{ 
+        font-size: 45px;
+        font-family: fantasy;
+        color:rgb(85, 32, 7);
+        display: flex;
+        justify-content: center;
+    }
+    #img-div {
+        display: grid;
+        max-width: 95vw;
+        width: 60vw;
+        justify-self: center;
+        position: relative;
+        background-color: bisque;
+    }
+    #image {
+        justify-self: center;
+        position: relative;
+        max-width: 500px;
+        width: 60vw;
+        }
+    #img-caption {
+        position: absolute;
+        text-align: center;
+        justify-self: center;
+        color: bisque;
+        background-color: rgb(85, 32, 7,0.5);
+        bottom: 0px;
+        height: 30px;
+        max-width: 500px;
+        width: 60vw;
+        font-size: 20px;
+    }
+    #tribute-info {
+        width: 60vw;
+        background-color: bisque;
+        justify-self: center;
+    }
+    h1{
+        font-size: large;
+        text-align: justify;
+        color:rgb(85, 32, 7);
+    }
+    
+    h2 {
+        font-size: large;
+        font-family: fantasy;
+        color:rgb(85, 32, 7);
+
+    }
+    section {
+        text-align: justify;
+    }
